@@ -6,7 +6,7 @@ if (year) year.textContent = new Date().getFullYear();
 
 function closeNavigation() {
   if (!navToggle || !primaryNav) return;
-  navToggle.setAttribute("aria-expanded", "false");
+  navToggle.setAttribute("aria-expanded", "false"); 
   primaryNav.classList.remove("is-open");
 }
 
