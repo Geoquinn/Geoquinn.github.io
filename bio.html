@@ -6,7 +6,7 @@
 
     <meta
       name="description"
-      content="Biography, education, academic appointments, awards, methods training, and professional service for George D. Quinn, a Political Science Ph.D. candidate at Rutgers University."
+      content="Biography, education, appointments, awards, methods training, and professional service for George D. Quinn, a Political Science Ph.D. candidate at Rutgers University."
     >
 
     <meta name="theme-color" content="#a6192e">
@@ -21,11 +21,457 @@
       rel="stylesheet"
     >
 
+    <!-- Shared website styles -->
     <link rel="stylesheet" href="styles.css">
+
+    <!-- Biography-page improvements -->
+    <style>
+      .bio-page {
+        background: #ffffff;
+      }
+
+      /*
+       * Biography heading
+       */
+      .bio-page-hero {
+        position: relative;
+        overflow: hidden;
+        padding: clamp(3rem, 7vw, 5.5rem) 0;
+        color: #ffffff;
+        background:
+          linear-gradient(
+            115deg,
+            rgba(114, 15, 31, 0.98),
+            rgba(166, 25, 46, 0.9)
+          ),
+          url("assets/hero-pattern.jpg") center / cover;
+      }
+
+      .bio-page-hero::after {
+        position: absolute;
+        right: -7rem;
+        bottom: -9rem;
+        width: 25rem;
+        height: 25rem;
+        content: "";
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        border-radius: 50%;
+      }
+
+      .bio-page-hero .shell {
+        position: relative;
+        z-index: 1;
+      }
+
+      .bio-page-hero h1 {
+        max-width: 50rem;
+        margin: 0;
+        font-family: "Lora", Georgia, serif;
+        font-size: clamp(3.5rem, 8vw, 7rem);
+        font-weight: 600;
+        line-height: 0.96;
+        letter-spacing: -0.045em;
+      }
+
+      .bio-page-hero .eyebrow {
+        margin-bottom: 1rem;
+        color: #ffffff;
+      }
+
+      /*
+       * Main biography area
+       */
+      .bio-introduction {
+        padding: clamp(4rem, 8vw, 7rem) 0;
+      }
+
+      .bio-intro-grid {
+        display: grid;
+        grid-template-columns: minmax(18rem, 25rem) minmax(0, 1fr);
+        gap: clamp(3rem, 7vw, 6rem);
+        align-items: start;
+      }
+
+      /*
+       * Portrait
+       */
+      .bio-photo {
+        position: sticky;
+        top: 7rem;
+        width: 100%;
+        max-width: 25rem;
+        margin: 0;
+      }
+
+      .bio-photo-frame {
+        position: relative;
+      }
+
+      .bio-photo-frame::after {
+        position: absolute;
+        right: -1rem;
+        bottom: -1rem;
+        z-index: -1;
+        width: 100%;
+        height: 100%;
+        content: "";
+        background: #e9e9eb;
+      }
+
+      .bio-photo img {
+        display: block;
+        width: 100%;
+        height: auto !important;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+        object-position: center;
+        background: #e9e9eb;
+        border: 1px solid #dddddf;
+      }
+
+      .bio-photo figcaption {
+        margin-top: 1.4rem;
+        color: #6a6b70;
+        font-size: 0.82rem;
+        line-height: 1.55;
+      }
+
+      /*
+       * Biography text
+       */
+      .bio-copy {
+        max-width: 52rem;
+      }
+
+      .bio-copy .section-label {
+        margin: 0 0 0.75rem;
+        color: #a6192e;
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+      }
+
+      .bio-copy h2 {
+        margin: 0 0 1.6rem;
+        font-family: "Lora", Georgia, serif;
+        font-size: clamp(2.3rem, 4.5vw, 4rem);
+        font-weight: 600;
+        line-height: 1.12;
+        letter-spacing: -0.035em;
+        text-wrap: balance;
+      }
+
+      .bio-copy .bio-role {
+        margin: 0 0 1.8rem;
+        color: #a6192e;
+        font-size: 1.05rem;
+        font-weight: 700;
+      }
+
+      .bio-copy p:not(.section-label):not(.bio-role) {
+        margin: 0 0 1.35rem;
+        color: #47494e;
+        font-size: 1.05rem;
+        line-height: 1.8;
+      }
+
+      .bio-copy .opening-paragraph {
+        color: #292a2e !important;
+        font-family: "Lora", Georgia, serif;
+        font-size: clamp(1.3rem, 2.3vw, 1.75rem) !important;
+        line-height: 1.55 !important;
+      }
+
+      .bio-copy .button-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        margin-top: 2.3rem;
+      }
+
+      /*
+       * Quick academic profile
+       */
+      .bio-profile {
+        padding: clamp(4rem, 7vw, 6rem) 0;
+        background: #f1f1f2;
+      }
+
+      .bio-profile-heading {
+        max-width: 48rem;
+        margin-bottom: 2.5rem;
+      }
+
+      .bio-profile-heading h2 {
+        margin: 0;
+        font-family: "Lora", Georgia, serif;
+        font-size: clamp(2.3rem, 4vw, 3.7rem);
+        line-height: 1.1;
+        letter-spacing: -0.035em;
+      }
+
+      .bio-fact-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        border-top: 1px solid #c9c9cc;
+        border-bottom: 1px solid #c9c9cc;
+      }
+
+      .bio-fact {
+        padding: 1.75rem;
+        border-right: 1px solid #c9c9cc;
+      }
+
+      .bio-fact:last-child {
+        border-right: 0;
+      }
+
+      .bio-fact .fact-label {
+        display: block;
+        margin-bottom: 0.7rem;
+        color: #a6192e;
+        font-size: 0.72rem;
+        font-weight: 700;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+
+      .bio-fact strong {
+        display: block;
+        font-family: "Lora", Georgia, serif;
+        font-size: 1.2rem;
+        line-height: 1.35;
+      }
+
+      .bio-fact p {
+        margin: 0.65rem 0 0;
+        color: #686a6f;
+        font-size: 0.88rem;
+        line-height: 1.55;
+      }
+
+      /*
+       * Education timeline
+       */
+      .bio-education {
+        padding: clamp(4.5rem, 8vw, 7rem) 0;
+      }
+
+      .bio-two-column {
+        display: grid;
+        grid-template-columns: minmax(15rem, 0.65fr) minmax(0, 1.35fr);
+        gap: clamp(3rem, 8vw, 7rem);
+        align-items: start;
+      }
+
+      .bio-section-heading h2 {
+        margin: 0;
+        font-family: "Lora", Georgia, serif;
+        font-size: clamp(2.5rem, 4.5vw, 4rem);
+        line-height: 1.08;
+        letter-spacing: -0.04em;
+      }
+
+      .bio-section-heading .eyebrow {
+        color: #a6192e;
+      }
+
+      .education-list {
+        border-top: 1px solid #d2d2d4;
+      }
+
+      .education-entry {
+        display: grid;
+        grid-template-columns: 8rem minmax(0, 1fr);
+        gap: 1.5rem;
+        padding: 1.7rem 0;
+        border-bottom: 1px solid #d2d2d4;
+      }
+
+      .education-date {
+        margin: 0;
+        color: #a6192e;
+        font-weight: 700;
+      }
+
+      .education-entry h3 {
+        margin: 0;
+        font-family: "Lora", Georgia, serif;
+        font-size: 1.35rem;
+        line-height: 1.3;
+      }
+
+      .education-entry div p {
+        margin: 0.4rem 0 0;
+        color: #67696e;
+      }
+
+      /*
+       * Appointments
+       */
+      .bio-experience {
+        padding: clamp(4.5rem, 8vw, 7rem) 0;
+        background: #f7f4ef;
+      }
+
+      .experience-heading {
+        max-width: 50rem;
+        margin-bottom: 3rem;
+      }
+
+      .experience-heading h2 {
+        margin: 0;
+        font-family: "Lora", Georgia, serif;
+        font-size: clamp(2.5rem, 4.5vw, 4rem);
+        line-height: 1.08;
+        letter-spacing: -0.04em;
+      }
+
+      .experience-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.25rem;
+      }
+
+      .experience-card {
+        min-height: 14rem;
+        padding: 2rem;
+        background: #ffffff;
+        border: 1px solid #dedbdd;
+        border-top: 5px solid #a6192e;
+      }
+
+      .experience-card h3 {
+        margin: 0;
+        font-family: "Lora", Georgia, serif;
+        font-size: 1.55rem;
+        line-height: 1.25;
+      }
+
+      .experience-card .card-meta {
+        margin: 0.85rem 0;
+        color: #a6192e;
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+
+      .experience-card p:last-child {
+        margin-bottom: 0;
+        color: #67696e;
+      }
+
+      /*
+       * Service
+       */
+      .bio-service {
+        padding: clamp(4.5rem, 8vw, 7rem) 0;
+        color: #ffffff;
+        background: #2d465b;
+      }
+
+      .bio-service .bio-section-heading .eyebrow {
+        color: #ffffff;
+      }
+
+      .bio-service-copy {
+        max-width: 50rem;
+      }
+
+      .bio-service-copy p {
+        margin: 0 0 1.3rem;
+        color: #e3e9ed;
+        font-size: 1.05rem;
+        line-height: 1.8;
+      }
+
+      /*
+       * Responsive layout
+       */
+      @media (max-width: 950px) {
+        .bio-intro-grid {
+          grid-template-columns: minmax(15rem, 20rem) minmax(0, 1fr);
+          gap: 3rem;
+        }
+
+        .bio-fact-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+
+        .bio-fact:nth-child(2) {
+          border-right: 0;
+        }
+
+        .bio-fact:nth-child(-n + 2) {
+          border-bottom: 1px solid #c9c9cc;
+        }
+      }
+
+      @media (max-width: 760px) {
+        .bio-intro-grid,
+        .bio-two-column {
+          grid-template-columns: 1fr;
+        }
+
+        .bio-photo {
+          position: static;
+          width: min(100%, 24rem);
+          margin-inline: auto;
+        }
+
+        .bio-copy {
+          max-width: none;
+        }
+
+        .experience-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 520px) {
+        .bio-page-hero {
+          padding: 3.5rem 0;
+        }
+
+        .bio-page-hero h1 {
+          font-size: 3.4rem;
+        }
+
+        .bio-fact-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .bio-fact {
+          border-right: 0;
+          border-bottom: 1px solid #c9c9cc;
+        }
+
+        .bio-fact:last-child {
+          border-bottom: 0;
+        }
+
+        .education-entry {
+          grid-template-columns: 1fr;
+          gap: 0.4rem;
+        }
+
+        .bio-copy .button-row {
+          flex-direction: column;
+          align-items: stretch;
+        }
+
+        .bio-copy .button {
+          width: 100%;
+        }
+      }
+    </style>
+
     <script src="script.js" defer></script>
   </head>
 
-  <body>
+  <body class="bio-page">
     <a class="skip-link" href="#main-content">Skip to content</a>
 
     <header class="site-header" id="top">
@@ -75,181 +521,265 @@
     </header>
 
     <main id="main-content">
-      <section class="page-banner banner-bio">
+      <section class="bio-page-hero">
         <div class="shell">
-          <p class="eyebrow light">About</p>
+          <p class="eyebrow">About</p>
           <h1>Biography</h1>
         </div>
       </section>
 
       <section
-        class="content-section shell bio-layout"
+        class="bio-introduction"
         aria-labelledby="biography-heading"
       >
-        <!-- New biography portrait -->
-        <div class="bio-portrait reveal">
-          <img
-            src="assets/george-quinn-bio.png"
-            alt="George D. Quinn at Rutgers University"
-            width="618"
-            height="616"
-            loading="eager"
-            decoding="async"
-            fetchpriority="high"
-          >
-        </div>
+        <div class="shell bio-intro-grid">
+          <figure class="bio-photo reveal">
+            <div class="bio-photo-frame">
+              <img
+                src="assets/george-quinn-bio.png"
+                alt="George D. Quinn at Rutgers University"
+                width="618"
+                height="616"
+                loading="eager"
+                decoding="async"
+                fetchpriority="high"
+              >
+            </div>
 
-        <div class="prose reveal">
-          <p class="lead" id="biography-heading">
-            George D. Quinn is a Ph.D. candidate in Political Science at
-            Rutgers University, specializing in American politics and
-            statistical methodology.
-          </p>
+            <figcaption>
+              George D. Quinn · Department of Political Science,
+              Rutgers University
+            </figcaption>
+          </figure>
 
-          <p>
-            His research examines political behavior, public opinion,
-            representation, and campaign communication. His dissertation,
-            <em>
-              Negativity Bias Revisited: Changes in the Effects of Campaign
-              Appeals over Time
-            </em>,
-            investigates how positive, negative, and contrast messages shape
-            candidate evaluations across changing campaign environments.
-          </p>
+          <div class="bio-copy reveal">
+            <p class="section-label">Political Science</p>
 
-          <p>
-            Quinn’s wider research connects survey experiments, open-ended
-            text, electoral returns, demographic data, and computational
-            methods. His collaborative work addresses candidate age, Latino
-            voting, Puerto Rico’s status politics, racial attitudes and vote
-            choice, data-center politics, and the use of generative AI in
-            survey research.
-          </p>
+            <h2 id="biography-heading">George D. Quinn</h2>
 
-          <p>
-            He is a Graduate Teaching Assistant in the Rutgers Department of
-            Political Science and has served as Lead Graduate Research
-            Assistant for the Young Elected Leaders Project at the Eagleton
-            Institute of Politics. His work evaluating AI and structured topic
-            modeling for open-ended survey responses received the 2024 AAPOR
-            Best Student Poster Award.
-          </p>
+            <p class="bio-role">
+              Ph.D. Candidate · Rutgers University
+            </p>
 
-          <div class="button-row">
-            <a
-              class="button button-red"
-              href="assets/George_Quinn_CV.pdf"
-              target="_blank"
-              rel="noopener"
-            >
-              Download full CV
-            </a>
+            <p class="opening-paragraph">
+              George D. Quinn is a Ph.D. candidate specializing in American
+              politics and statistical methodology.
+            </p>
 
-            <a class="button button-outline" href="contact.html">
-              Contact George
-            </a>
+            <p>
+              His research examines political behavior, public opinion,
+              representation, and campaign communication. His dissertation,
+              <em>
+                Negativity Bias Revisited: Changes in the Effects of Campaign
+                Appeals over Time
+              </em>,
+              investigates how positive, negative, and contrast messages shape
+              candidate evaluations across changing campaign environments.
+            </p>
+
+            <p>
+              Quinn’s wider research connects survey experiments, open-ended
+              text, electoral returns, demographic data, and computational
+              methods. His collaborative work addresses candidate age, Latino
+              voting, Puerto Rico’s status politics, racial attitudes and vote
+              choice, data-center politics, and the use of generative AI in
+              survey research.
+            </p>
+
+            <p>
+              He is a Graduate Teaching Assistant in the Rutgers Department of
+              Political Science and has served as Lead Graduate Research
+              Assistant for the Young Elected Leaders Project at the Eagleton
+              Institute of Politics. His work evaluating AI and structured
+              topic modeling for open-ended survey responses received the 2024
+              AAPOR Best Student Poster Award.
+            </p>
+
+            <div class="button-row">
+              <a
+                class="button button-red"
+                href="assets/George_Quinn_CV.pdf"
+                target="_blank"
+                rel="noopener"
+              >
+                Download full CV
+              </a>
+
+              <a class="button button-outline" href="contact.html">
+                Contact George
+              </a>
+            </div>
           </div>
         </div>
       </section>
 
       <section
-        class="content-section muted-section"
+        class="bio-profile"
+        aria-labelledby="profile-heading"
+      >
+        <div class="shell">
+          <div class="bio-profile-heading reveal">
+            <p class="eyebrow red">Academic profile</p>
+            <h2 id="profile-heading">
+              Research and methodological interests
+            </h2>
+          </div>
+
+          <div class="bio-fact-grid reveal">
+            <article class="bio-fact">
+              <span class="fact-label">Degree</span>
+              <strong>Ph.D. expected 2027</strong>
+              <p>Political Science, Rutgers University</p>
+            </article>
+
+            <article class="bio-fact">
+              <span class="fact-label">Major field</span>
+              <strong>American Politics</strong>
+              <p>Campaigns, public opinion, and representation</p>
+            </article>
+
+            <article class="bio-fact">
+              <span class="fact-label">Minor field</span>
+              <strong>Statistical Methodology</strong>
+              <p>Experiments, panel data, and computational methods</p>
+            </article>
+
+            <article class="bio-fact">
+              <span class="fact-label">Recognition</span>
+              <strong>2024 AAPOR Award</strong>
+              <p>Best Student Poster Award</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section
+        class="bio-education"
         aria-labelledby="education-heading"
       >
-        <div class="shell two-column-detail">
-          <div class="reveal">
-            <p class="eyebrow red">Education</p>
+        <div class="shell bio-two-column">
+          <div class="bio-section-heading reveal">
+            <p class="eyebrow">Education</p>
             <h2 id="education-heading">Academic training</h2>
           </div>
 
-          <div class="timeline reveal">
-            <article>
-              <p class="timeline-date">Expected 2027</p>
-              <h3>Ph.D., Political Science</h3>
-              <p>
-                Rutgers University · Major field: American Politics · Minor
-                field: Statistical Methodology
-              </p>
+          <div class="education-list reveal">
+            <article class="education-entry">
+              <p class="education-date">Expected 2027</p>
+
+              <div>
+                <h3>Ph.D., Political Science</h3>
+                <p>
+                  Rutgers University · Major field: American Politics · Minor
+                  field: Statistical Methodology
+                </p>
+              </div>
             </article>
 
-            <article>
-              <p class="timeline-date">2024</p>
-              <h3>M.A., Political Science</h3>
-              <p>Rutgers University</p>
+            <article class="education-entry">
+              <p class="education-date">2024</p>
+
+              <div>
+                <h3>M.A., Political Science</h3>
+                <p>Rutgers University</p>
+              </div>
             </article>
 
-            <article>
-              <p class="timeline-date">2022</p>
-              <h3>B.A., Political Science</h3>
-              <p>
-                Stockton University · Minor in Holocaust &amp; Genocide Studies
-              </p>
+            <article class="education-entry">
+              <p class="education-date">2022</p>
+
+              <div>
+                <h3>B.A., Political Science</h3>
+                <p>
+                  Stockton University · Minor in Holocaust &amp; Genocide
+                  Studies
+                </p>
+              </div>
             </article>
           </div>
         </div>
       </section>
 
       <section
-        class="content-section shell"
+        class="bio-experience"
         aria-labelledby="experience-heading"
       >
-        <div class="section-intro reveal">
-          <p class="eyebrow red">Appointments &amp; recognition</p>
-          <h2 id="experience-heading">Academic experience</h2>
-        </div>
+        <div class="shell">
+          <div class="experience-heading reveal">
+            <p class="eyebrow red">
+              Appointments &amp; recognition
+            </p>
 
-        <div class="info-grid">
-          <article class="info-card reveal">
-            <h3>Rutgers University</h3>
-            <p class="card-meta">
-              Graduate Teaching Assistant · 2024–present
-            </p>
-            <p>Department of Political Science</p>
-          </article>
+            <h2 id="experience-heading">Academic experience</h2>
+          </div>
 
-          <article class="info-card reveal">
-            <h3>Eagleton Institute of Politics</h3>
-            <p class="card-meta">
-              Lead Graduate Research Assistant · 2022–2024
-            </p>
-            <p>
-              Data management for the Young Elected Leaders Project, Center
-              for Youth Political Participation
-            </p>
-          </article>
+          <div class="experience-grid">
+            <article class="experience-card reveal">
+              <h3>Rutgers University</h3>
 
-          <article class="info-card reveal">
-            <h3>AAPOR</h3>
-            <p class="card-meta">Best Student Poster Award · 2024</p>
-            <p>
-              Recognized for research evaluating AI and structured topic
-              modeling for open-ended ANES responses.
-            </p>
-          </article>
+              <p class="card-meta">
+                Graduate Teaching Assistant · 2024–present
+              </p>
 
-          <article class="info-card reveal">
-            <h3>Methods Training</h3>
-            <p class="card-meta">Rutgers · Michigan · Manchester</p>
-            <p>
-              Summer Institute in Computational Social Science; ICPSR
-              training in network and time-series analysis; and the Political
-              Networks Workshop.
-            </p>
-          </article>
+              <p>Department of Political Science</p>
+            </article>
+
+            <article class="experience-card reveal">
+              <h3>Eagleton Institute of Politics</h3>
+
+              <p class="card-meta">
+                Lead Graduate Research Assistant · 2022–2024
+              </p>
+
+              <p>
+                Data management for the Young Elected Leaders Project,
+                Center for Youth Political Participation.
+              </p>
+            </article>
+
+            <article class="experience-card reveal">
+              <h3>AAPOR</h3>
+
+              <p class="card-meta">
+                Best Student Poster Award · 2024
+              </p>
+
+              <p>
+                Recognized for research evaluating AI and structured topic
+                modeling for open-ended ANES responses.
+              </p>
+            </article>
+
+            <article class="experience-card reveal">
+              <h3>Methods Training</h3>
+
+              <p class="card-meta">
+                Rutgers · Michigan · Manchester
+              </p>
+
+              <p>
+                Summer Institute in Computational Social Science; ICPSR
+                training in network and time-series analysis; and the
+                Political Networks Workshop.
+              </p>
+            </article>
+          </div>
         </div>
       </section>
 
       <section
-        class="content-section service-band"
+        class="bio-service"
         aria-labelledby="service-heading"
       >
-        <div class="shell two-column-detail">
-          <div class="reveal">
-            <p class="eyebrow light">Service</p>
-            <h2 id="service-heading">To the field and university</h2>
+        <div class="shell bio-two-column">
+          <div class="bio-section-heading reveal">
+            <p class="eyebrow">Service</p>
+            <h2 id="service-heading">
+              To the field and university
+            </h2>
           </div>
 
-          <div class="prose compact-prose reveal">
+          <div class="bio-service-copy reveal">
             <p>
               Quinn serves on the 2026 AAPOR Conference Program Committee,
               with a focus on AI, data science, machine learning, large
