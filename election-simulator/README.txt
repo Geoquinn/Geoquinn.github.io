@@ -12,12 +12,18 @@ https://george-quinn.com/election-simulator/
      index.html
      styles.css
      simulator.js
+     d3.min.js
+     house-districts-119.geojson
      house/index.html
      senate/index.html
      governors/index.html
 
 3. Commit the files to the branch GitHub Pages currently publishes.
 
-This nationwide simulator includes House, Senate, and governor views plus
-four adjustable prototype model lenses. The displayed estimates are clearly
-marked as interface demonstrations until the validated models are connected.
+The House view opens with a blank 435-district map. Visitors can apply test
+national scenarios, inspect Solid/Likely/Lean/Toss-up ratings, and click a
+district for its illustrative vote and turnout estimate. District boundaries
+come from the U.S. Census Bureau's generalized 119th Congress layer.
+
+All ratings, votes, turnout, and scenario assumptions remain clearly marked
+as test data until validated RIPPL models are connected.
