@@ -1,0 +1,3926 @@
+{
+  "schemaVersion": 1,
+  "retrieved": "2026-08-18",
+  "source": "2026 United States House of Representatives elections",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+  "method": "A party nominee or presumptive nominee is shown only when exactly one candidate from that party is listed in the current district table.",
+  "districtCount": 435,
+  "bothMajorPartyNames": 366,
+  "districts": [
+    {
+      "id": "0200",
+      "label": "AK at-large",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 3,
+      "republicanFieldSize": 3,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "0101",
+      "label": "AL-01",
+      "democratic": "Clyde Jones Jr.",
+      "republican": "Jerry Carl",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "New representative to be elected"
+    },
+    {
+      "id": "0102",
+      "label": "AL-02",
+      "democratic": "Shomari Figures",
+      "republican": "Rhett Marques",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0103",
+      "label": "AL-03",
+      "democratic": "Lee McInnis",
+      "republican": "Mike Rogers",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0104",
+      "label": "AL-04",
+      "democratic": "Amanda Pusczek",
+      "republican": "Robert Aderholt",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0105",
+      "label": "AL-05",
+      "democratic": "Andrew Sneed",
+      "republican": "Dale Strong",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0106",
+      "label": "AL-06",
+      "democratic": "Maurice Mercer",
+      "republican": "Gary Palmer",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0107",
+      "label": "AL-07",
+      "democratic": "Terri Sewell",
+      "republican": "Ammie Akin",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0501",
+      "label": "AR-01",
+      "democratic": "Terri Green",
+      "republican": "Rick Crawford",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0502",
+      "label": "AR-02",
+      "democratic": "Chris Jones",
+      "republican": "French Hill",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0503",
+      "label": "AR-03",
+      "democratic": "Robb Ryerse",
+      "republican": "Steve Womack",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0504",
+      "label": "AR-04",
+      "democratic": "James Russell",
+      "republican": "Bruce Westerman",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0401",
+      "label": "AZ-01",
+      "democratic": "Amish Shah",
+      "republican": "Jay Feely",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for governor [ 28 ]"
+    },
+    {
+      "id": "0402",
+      "label": "AZ-02",
+      "democratic": "Jonathan Nez",
+      "republican": "Eli Crane",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0403",
+      "label": "AZ-03",
+      "democratic": "Yassamin Ansari",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0404",
+      "label": "AZ-04",
+      "democratic": "Greg Stanton",
+      "republican": "Zuhdi Jasser",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0405",
+      "label": "AZ-05",
+      "democratic": "Elizabeth Lee",
+      "republican": "Mark Lamb",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for governor [ 29 ]"
+    },
+    {
+      "id": "0406",
+      "label": "AZ-06",
+      "democratic": "JoAnna Mendoza",
+      "republican": "Juan Ciscomani",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0407",
+      "label": "AZ-07",
+      "democratic": "Adelita Grijalva",
+      "republican": "Daniel Butierez",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0408",
+      "label": "AZ-08",
+      "democratic": "Bernadette Greene-Placentia",
+      "republican": "Abraham Hamadeh",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0409",
+      "label": "AZ-09",
+      "democratic": "Dani Sterbinsky",
+      "republican": "Paul Gosar",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0601",
+      "label": "CA-01",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 2,
+      "raceStatus": "Incumbent died January 6, 2026. [ 162 ] New member elected June 2, 2026. Republican hold."
+    },
+    {
+      "id": "0602",
+      "label": "CA-02",
+      "democratic": "Jared Huffman",
+      "republican": "Robin Littau",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0603",
+      "label": "CA-03",
+      "democratic": "Ami Bera",
+      "republican": "Robb Tucker",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0604",
+      "label": "CA-04",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent advanced to general. Democratic hold."
+    },
+    {
+      "id": "0605",
+      "label": "CA-05",
+      "democratic": "Michael Masuda",
+      "republican": "Tom McClintock",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0606",
+      "label": "CA-06",
+      "democratic": "Richard Pan",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0607",
+      "label": "CA-07",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent advanced to general. Democratic hold."
+    },
+    {
+      "id": "0608",
+      "label": "CA-08",
+      "democratic": "John Garamendi",
+      "republican": "Rudy Recile",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0609",
+      "label": "CA-09",
+      "democratic": "Josh Harder",
+      "republican": "John McBride",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0610",
+      "label": "CA-10",
+      "democratic": "Mark DeSaulnier",
+      "republican": "Jeff Frese",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0611",
+      "label": "CA-11",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent retiring. [ 2 ] Democratic hold."
+    },
+    {
+      "id": "0612",
+      "label": "CA-12",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent advanced to general Democratic hold."
+    },
+    {
+      "id": "0613",
+      "label": "CA-13",
+      "democratic": "Adam Gray",
+      "republican": "Kevin Lincoln",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0614",
+      "label": "CA-14",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent resigned April 14, 2026, following sexual assault allegations. [ 164 ] New member to be elected August 18, 2026, after no candidate received a majority vote in the June 16, 2026, jungle primary. Democratic hold."
+    },
+    {
+      "id": "0615",
+      "label": "CA-15",
+      "democratic": "Kevin Mullin",
+      "republican": "Charles Hoelter",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0616",
+      "label": "CA-16",
+      "democratic": "Sam Liccardo",
+      "republican": "Peter Soul\u00e9",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0617",
+      "label": "CA-17",
+      "democratic": "Ro Khanna",
+      "republican": "Ritesh Tandon",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0618",
+      "label": "CA-18",
+      "democratic": "Zoe Lofgren",
+      "republican": "Shane Lewis",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0619",
+      "label": "CA-19",
+      "democratic": "Jimmy Panetta",
+      "republican": "Peter Coe Verbica",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0620",
+      "label": "CA-20",
+      "democratic": "Sandra Van Scotter",
+      "republican": "Vince Fong",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0621",
+      "label": "CA-21",
+      "democratic": "Jim Costa",
+      "republican": "Kyle Kirkland",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0622",
+      "label": "CA-22",
+      "democratic": "Randy Villegas",
+      "republican": "David Valadao",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0623",
+      "label": "CA-23",
+      "democratic": "Tessa Lynn Hodge",
+      "republican": "Jay Obernolte",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0624",
+      "label": "CA-24",
+      "democratic": "Salud Carbajal",
+      "republican": "Bob Smith",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0625",
+      "label": "CA-25",
+      "democratic": "Raul Ruiz",
+      "republican": "Joe Males",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0626",
+      "label": "CA-26",
+      "democratic": "Jacqui Irwin",
+      "republican": "Sam Gallucci",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 3 ]"
+    },
+    {
+      "id": "0627",
+      "label": "CA-27",
+      "democratic": "George Whitesides",
+      "republican": "Jason Gibbs",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0628",
+      "label": "CA-28",
+      "democratic": "Judy Chu",
+      "republican": "April Verlato",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0629",
+      "label": "CA-29",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent advanced to general. Democratic hold."
+    },
+    {
+      "id": "0630",
+      "label": "CA-30",
+      "democratic": "Laura Friedman",
+      "republican": "Scott Meyers",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0631",
+      "label": "CA-31",
+      "democratic": "Gil Cisneros",
+      "republican": "Eric Ching",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0632",
+      "label": "CA-32",
+      "democratic": "Brad Sherman",
+      "republican": "Larry Thompson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0633",
+      "label": "CA-33",
+      "democratic": "Pete Aguilar",
+      "republican": "Stephanie Vargas",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0634",
+      "label": "CA-34",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent advanced to general. Democratic hold."
+    },
+    {
+      "id": "0635",
+      "label": "CA-35",
+      "democratic": "Norma Torres",
+      "republican": "Mike Cargile",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0636",
+      "label": "CA-36",
+      "democratic": "Ted Lieu",
+      "republican": "Houston Brignano",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0637",
+      "label": "CA-37",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent advanced to general. Democratic hold."
+    },
+    {
+      "id": "0638",
+      "label": "CA-38",
+      "democratic": "Hilda Solis",
+      "republican": "Pedro Casas",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "New representative to be elected"
+    },
+    {
+      "id": "0639",
+      "label": "CA-39",
+      "democratic": "Mark Takano",
+      "republican": "Steve Manos",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0640",
+      "label": "CA-40",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 0,
+      "republicanFieldSize": 2,
+      "raceStatus": "Incumbent advanced to general. Republican hold."
+    },
+    {
+      "id": "0641",
+      "label": "CA-41",
+      "democratic": "Linda S\u00e1nchez",
+      "republican": "Mitch Clemmons",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0642",
+      "label": "CA-42",
+      "democratic": "Robert Garcia",
+      "republican": "Brian Burley",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0643",
+      "label": "CA-43",
+      "democratic": "Maxine Waters",
+      "republican": "Cristian Morales",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0644",
+      "label": "CA-44",
+      "democratic": "Nanette Barrag\u00e1n",
+      "republican": "Genevieve Angel",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0645",
+      "label": "CA-45",
+      "democratic": "Derek Tran",
+      "republican": "Chuong Vo",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0646",
+      "label": "CA-46",
+      "democratic": "Lou Correa",
+      "republican": "David Pan",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0647",
+      "label": "CA-47",
+      "democratic": "Dave Min",
+      "republican": "Jenny Le Roux",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0648",
+      "label": "CA-48",
+      "democratic": "Marni von Wilpert",
+      "republican": "Jim Desmond",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 30 ]"
+    },
+    {
+      "id": "0649",
+      "label": "CA-49",
+      "democratic": "Mike Levin",
+      "republican": "Armen Kurdian",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0650",
+      "label": "CA-50",
+      "democratic": "Scott Peters",
+      "republican": "Steve Cohen",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0651",
+      "label": "CA-51",
+      "democratic": "Sara Jacobs",
+      "republican": "Ricardo Cabrera",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0652",
+      "label": "CA-52",
+      "democratic": "Juan Vargas",
+      "republican": "Jeff Belle",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "0801",
+      "label": "CO-01",
+      "democratic": "Melat Kiros",
+      "republican": "Christy Peterson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent lost renomination"
+    },
+    {
+      "id": "0802",
+      "label": "CO-02",
+      "democratic": "Joe Neguse",
+      "republican": "Kelley Dennison",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0803",
+      "label": "CO-03",
+      "democratic": "Dwayne Romero",
+      "republican": "Jeff Hurd",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0804",
+      "label": "CO-04",
+      "democratic": "Eileen Laubacher",
+      "republican": "Lauren Boebert",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0805",
+      "label": "CO-05",
+      "democratic": "Jessica Killin",
+      "republican": "Jeff Crank",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0806",
+      "label": "CO-06",
+      "democratic": "Jason Crow",
+      "republican": "Jason Clark",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0807",
+      "label": "CO-07",
+      "democratic": "Brittany Pettersen",
+      "republican": "Tim Bennett",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0808",
+      "label": "CO-08",
+      "democratic": "Manny Rutinel",
+      "republican": "Gabe Evans",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0901",
+      "label": "CT-01",
+      "democratic": "Luke Bronin",
+      "republican": "Amy Chai",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent lost renomination"
+    },
+    {
+      "id": "0902",
+      "label": "CT-02",
+      "democratic": "Joe Courtney",
+      "republican": "George Austin",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0903",
+      "label": "CT-03",
+      "democratic": "Rosa DeLauro",
+      "republican": "Chris Lancia",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0904",
+      "label": "CT-04",
+      "democratic": "Jim Himes",
+      "republican": "Michael Goldstein",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "0905",
+      "label": "CT-05",
+      "democratic": "Jahana Hayes",
+      "republican": "Chris Shea",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1000",
+      "label": "DE at-large",
+      "democratic": "Sarah McBride",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 3,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "1201",
+      "label": "FL-01",
+      "democratic": "Gay Valimont",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 2,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "1202",
+      "label": "FL-02",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 4,
+      "republicanFieldSize": 8,
+      "raceStatus": "Incumbent retiring [ 31 ]"
+    },
+    {
+      "id": "1203",
+      "label": "FL-03",
+      "democratic": null,
+      "republican": "Kat Cammack",
+      "democraticFieldSize": 4,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1204",
+      "label": "FL-04",
+      "democratic": null,
+      "republican": "Aaron Bean",
+      "democraticFieldSize": 3,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1205",
+      "label": "FL-05",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 3,
+      "republicanFieldSize": 2,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "1206",
+      "label": "FL-06",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 4,
+      "republicanFieldSize": 5,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "1207",
+      "label": "FL-07",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 3,
+      "republicanFieldSize": 4,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "1208",
+      "label": "FL-08",
+      "democratic": "Jennifer Jenkins",
+      "republican": "Mike Haridopolos",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1209",
+      "label": "FL-09",
+      "democratic": "Darren Soto",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 7,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1210",
+      "label": "FL-10",
+      "democratic": "Maxwell Frost",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent re-elected"
+    },
+    {
+      "id": "1211",
+      "label": "FL-11",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 3,
+      "republicanFieldSize": 5,
+      "raceStatus": "Incumbent retiring [ 32 ]"
+    },
+    {
+      "id": "1212",
+      "label": "FL-12",
+      "democratic": null,
+      "republican": "Gus Bilirakis",
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1213",
+      "label": "FL-13",
+      "democratic": null,
+      "republican": "Anna Paulina Luna",
+      "democraticFieldSize": 3,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1214",
+      "label": "FL-14",
+      "democratic": "Kathy Castor",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 7,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1215",
+      "label": "FL-15",
+      "democratic": null,
+      "republican": "Laurel Lee",
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1216",
+      "label": "FL-16",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 5,
+      "republicanFieldSize": 3,
+      "raceStatus": "Incumbent retiring [ 33 ]"
+    },
+    {
+      "id": "1217",
+      "label": "FL-17",
+      "democratic": null,
+      "republican": "Greg Steube",
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1218",
+      "label": "FL-18",
+      "democratic": "Curtis Gibson",
+      "republican": "Scott Franklin",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1219",
+      "label": "FL-19",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 3,
+      "republicanFieldSize": 10,
+      "raceStatus": "Incumbent retiring to run for governor [ 34 ]"
+    },
+    {
+      "id": "1220",
+      "label": "FL-20",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 5,
+      "republicanFieldSize": 4,
+      "raceStatus": "Incumbent to be determined in 2026"
+    },
+    {
+      "id": "1221",
+      "label": "FL-21",
+      "democratic": null,
+      "republican": "Brian Mast",
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "1222",
+      "label": "FL-22",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 7,
+      "raceStatus": "New representative to be elected"
+    },
+    {
+      "id": "1223",
+      "label": "FL-23",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 3,
+      "republicanFieldSize": 2,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "1224",
+      "label": "FL-24",
+      "democratic": null,
+      "republican": "Te Mayonna Brown",
+      "democraticFieldSize": 7,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 5 ]"
+    },
+    {
+      "id": "1225",
+      "label": "FL-25",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 5,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "1226",
+      "label": "FL-26",
+      "democratic": "Nicole Locklin",
+      "republican": "Mario D\u00edaz-Balart",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1227",
+      "label": "FL-27",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 2,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "1228",
+      "label": "FL-28",
+      "democratic": "Phil Ehr",
+      "republican": "Carlos Gimenez",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1301",
+      "label": "GA-01",
+      "democratic": "Amanda Hollowell",
+      "republican": "Jim Kingston",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 35 ]"
+    },
+    {
+      "id": "1302",
+      "label": "GA-02",
+      "democratic": "Sanford Bishop",
+      "republican": "Matt Day",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1303",
+      "label": "GA-03",
+      "democratic": "Maura Keller",
+      "republican": "Brian Jack",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1304",
+      "label": "GA-04",
+      "democratic": "Hank Johnson",
+      "republican": "James Duffie",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1305",
+      "label": "GA-05",
+      "democratic": "Nikema Williams",
+      "republican": "John Oscar Salvesen",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1306",
+      "label": "GA-06",
+      "democratic": "Lucy McBath",
+      "republican": "Kevin Martin",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1307",
+      "label": "GA-07",
+      "democratic": "Tony Kozycki",
+      "republican": "Rich McCormick",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1308",
+      "label": "GA-08",
+      "democratic": "Kelly Esti",
+      "republican": "Austin Scott",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1309",
+      "label": "GA-09",
+      "democratic": "Caitlyn Gegen",
+      "republican": "Andrew Clyde",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1310",
+      "label": "GA-10",
+      "democratic": "Pam Delancy",
+      "republican": "Houston Gaines",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 36 ]"
+    },
+    {
+      "id": "1311",
+      "label": "GA-11",
+      "democratic": "Chris Harden",
+      "republican": "John Cowan",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 37 ]"
+    },
+    {
+      "id": "1312",
+      "label": "GA-12",
+      "democratic": "Ceretta Smith",
+      "republican": "Rick Allen",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1313",
+      "label": "GA-13",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent died April 22, 2026. [ 166 ] New member to be elected August 25, 2026, after no candidate received a majority vote in the July 28, 2026, jungle primary. Democratic hold."
+    },
+    {
+      "id": "1314",
+      "label": "GA-14",
+      "democratic": "Shawn Harris",
+      "republican": "Y Clay Fuller",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent resigned January 5, 2026. [ 158 ] New member elected April 7, 2026, after no candidate received a majority vote in the March 10, 2026, jungle primary. Republican hold."
+    },
+    {
+      "id": "1501",
+      "label": "HI-01",
+      "democratic": "Ed Case",
+      "republican": "Adriel Lam",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1502",
+      "label": "HI-02",
+      "democratic": "Jill Tokuda",
+      "republican": "Brenton Awa",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1901",
+      "label": "IA-01",
+      "democratic": "Christina Bohannan",
+      "republican": "Mariannette Miller-Meeks",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1902",
+      "label": "IA-02",
+      "democratic": "Lindsay James",
+      "republican": "Joe Mitchell",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 38 ]"
+    },
+    {
+      "id": "1903",
+      "label": "IA-03",
+      "democratic": "Sarah Trone Garriott",
+      "republican": "Zach Nunn",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1904",
+      "label": "IA-04",
+      "democratic": "David Dawson",
+      "republican": "Chris McGowan",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for governor [ 39 ]"
+    },
+    {
+      "id": "1601",
+      "label": "ID-01",
+      "democratic": "Kaylee Peterson",
+      "republican": "Russ Fulcher",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1602",
+      "label": "ID-02",
+      "democratic": "Ellie Gilbreath",
+      "republican": "Mike Simpson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1701",
+      "label": "IL-01",
+      "democratic": "Jonathan Jackson",
+      "republican": "Christian Maxwell",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1702",
+      "label": "IL-02",
+      "democratic": "Donna Miller",
+      "republican": "Michael Noack",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 6 ]"
+    },
+    {
+      "id": "1703",
+      "label": "IL-03",
+      "democratic": "Delia Ramirez",
+      "republican": "Angel Oakley",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1704",
+      "label": "IL-04",
+      "democratic": "Patty Garcia",
+      "republican": "Lupe Castillo",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 7 ]"
+    },
+    {
+      "id": "1705",
+      "label": "IL-05",
+      "democratic": "Mike Quigley",
+      "republican": "Tommy Hanson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1706",
+      "label": "IL-06",
+      "democratic": "Sean Casten",
+      "republican": "Niki Conforti",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1707",
+      "label": "IL-07",
+      "democratic": "La Shawn Ford",
+      "republican": "Chad Koppie",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 8 ]"
+    },
+    {
+      "id": "1708",
+      "label": "IL-08",
+      "democratic": "Melissa Bean",
+      "republican": "Jennifer Davis",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 9 ]"
+    },
+    {
+      "id": "1709",
+      "label": "IL-09",
+      "democratic": "Daniel Biss",
+      "republican": "John Elleson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 10 ]"
+    },
+    {
+      "id": "1710",
+      "label": "IL-10",
+      "democratic": "Brad Schneider",
+      "republican": "Carl Lambrecht",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1711",
+      "label": "IL-11",
+      "democratic": "Bill Foster",
+      "republican": "Jeff Walter",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1712",
+      "label": "IL-12",
+      "democratic": "Julie Fortier",
+      "republican": "Mike Bost",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1713",
+      "label": "IL-13",
+      "democratic": "Nikki Budzinski",
+      "republican": "Jeff Wilson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1714",
+      "label": "IL-14",
+      "democratic": "Lauren Underwood",
+      "republican": "James Marter",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1715",
+      "label": "IL-15",
+      "democratic": "Jennifer Todd",
+      "republican": "Mary Miller",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1716",
+      "label": "IL-16",
+      "democratic": "Paul Nolley",
+      "republican": "Darin LaHood",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1717",
+      "label": "IL-17",
+      "democratic": "Eric Sorensen",
+      "republican": "Dillan Vancil",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1801",
+      "label": "IN-01",
+      "democratic": "Frank Mrvan",
+      "republican": "Barb Regnitz",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1802",
+      "label": "IN-02",
+      "democratic": "Jamee Decio",
+      "republican": "Rudy Yakym",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1803",
+      "label": "IN-03",
+      "democratic": "Kelly Thompson",
+      "republican": "Marlin Stutzman",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1804",
+      "label": "IN-04",
+      "democratic": "Drew Cox",
+      "republican": "Jim Baird",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1805",
+      "label": "IN-05",
+      "democratic": "J. D. Ford",
+      "republican": "Victoria Spartz",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1806",
+      "label": "IN-06",
+      "democratic": "Cinde Wirth",
+      "republican": "Jefferson Shreve",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1807",
+      "label": "IN-07",
+      "democratic": "Andr\u00e9 Carson",
+      "republican": "Patrick McAuley",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1808",
+      "label": "IN-08",
+      "democratic": "Mary Allen",
+      "republican": "Mark Messmer",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "1809",
+      "label": "IN-09",
+      "democratic": "Brad Meyer",
+      "republican": "Erin Houchin",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2001",
+      "label": "KS-01",
+      "democratic": "Lauren Reinhold",
+      "republican": "Tracey Mann",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2002",
+      "label": "KS-02",
+      "democratic": "Don Coover",
+      "republican": "Derek Schmidt",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2003",
+      "label": "KS-03",
+      "democratic": "Sharice Davids",
+      "republican": "Eric Jenkins",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2004",
+      "label": "KS-04",
+      "democratic": "Katy Tyndell",
+      "republican": "Ron Estes",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2101",
+      "label": "KY-01",
+      "democratic": "Drew Williams",
+      "republican": "James Comer",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2102",
+      "label": "KY-02",
+      "democratic": "Megan Wingfield",
+      "republican": "Brett Guthrie",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2103",
+      "label": "KY-03",
+      "democratic": "Morgan McGarvey",
+      "republican": "Maria Rodriquez",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2104",
+      "label": "KY-04",
+      "democratic": "Melissa Strange",
+      "republican": "Ed Gallrein",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent lost renomination [ 72 ]"
+    },
+    {
+      "id": "2105",
+      "label": "KY-05",
+      "democratic": "Ned Pillersdorf",
+      "republican": "Hal Rogers",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2106",
+      "label": "KY-06",
+      "democratic": "Zach Dembo",
+      "republican": "Ralph Alvarado",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 40 ]"
+    },
+    {
+      "id": "2201",
+      "label": "LA-01",
+      "democratic": "Lauren Jewett",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 2,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2202",
+      "label": "LA-02",
+      "democratic": null,
+      "republican": "Peter Williams",
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2203",
+      "label": "LA-03",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 4,
+      "republicanFieldSize": 2,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2204",
+      "label": "LA-04",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 2,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2205",
+      "label": "LA-05",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 6,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 41 ]"
+    },
+    {
+      "id": "2206",
+      "label": "LA-06",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 7,
+      "raceStatus": "Incumbent retiring to run for Louisiana State Senate [ 11 ]"
+    },
+    {
+      "id": "2501",
+      "label": "MA-01",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2502",
+      "label": "MA-02",
+      "democratic": "Jim McGovern",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2503",
+      "label": "MA-03",
+      "democratic": "Lori Trahan",
+      "republican": "Gary Grossi",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2504",
+      "label": "MA-04",
+      "democratic": null,
+      "republican": "Tom Stalcup",
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2505",
+      "label": "MA-05",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 3,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2506",
+      "label": "MA-06",
+      "democratic": null,
+      "republican": "Micah Jones",
+      "democraticFieldSize": 6,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 14 ]"
+    },
+    {
+      "id": "2507",
+      "label": "MA-07",
+      "democratic": "Ayanna Pressley",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2508",
+      "label": "MA-08",
+      "democratic": null,
+      "republican": "Robert Burke",
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2509",
+      "label": "MA-09",
+      "democratic": "Craig Swallow",
+      "republican": "Tyler MacAllister",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "2401",
+      "label": "MD-01",
+      "democratic": "Dan Schwartz",
+      "republican": "Andy Harris",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2402",
+      "label": "MD-02",
+      "democratic": "Johnny Olszewski",
+      "republican": "Dave Wallace",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2403",
+      "label": "MD-03",
+      "democratic": "Sarah Elfreth",
+      "republican": "Berney Flowers",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2404",
+      "label": "MD-04",
+      "democratic": "Glenn Ivey",
+      "republican": "George McDermott",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2405",
+      "label": "MD-05",
+      "democratic": "Adrian Boafo",
+      "republican": "Chris Chaffee",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 13 ]"
+    },
+    {
+      "id": "2406",
+      "label": "MD-06",
+      "democratic": "April McClain Delaney",
+      "republican": "Robin Ficker",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2407",
+      "label": "MD-07",
+      "democratic": "Kweisi Mfume",
+      "republican": "Scott Collier",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2408",
+      "label": "MD-08",
+      "democratic": "Jamie Raskin",
+      "republican": "Cheryl Riley",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2301",
+      "label": "ME-01",
+      "democratic": "Chellie Pingree",
+      "republican": "Ronald Russell",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2302",
+      "label": "ME-02",
+      "democratic": "Matthew Dunlap",
+      "republican": "Paul LePage",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 12 ]"
+    },
+    {
+      "id": "2601",
+      "label": "MI-01",
+      "democratic": "Callie Barr",
+      "republican": "Jack Bergman",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2602",
+      "label": "MI-02",
+      "democratic": "Ben Ambrose",
+      "republican": "John Moolenaar",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2603",
+      "label": "MI-03",
+      "democratic": "Hillary Scholten",
+      "republican": "Terri DeBoer",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2604",
+      "label": "MI-04",
+      "democratic": "Sean McCann",
+      "republican": "Bill Huizenga",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2605",
+      "label": "MI-05",
+      "democratic": "Christian Vukasovich",
+      "republican": "Tim Walberg",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2606",
+      "label": "MI-06",
+      "democratic": "Debbie Dingell",
+      "republican": "Heather Smiley",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2607",
+      "label": "MI-07",
+      "democratic": "William Lawrence",
+      "republican": "Tom Barrett",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2608",
+      "label": "MI-08",
+      "democratic": "Kristen McDonald Rivet",
+      "republican": "Thomas Smith",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2609",
+      "label": "MI-09",
+      "democratic": "Ray Pooley",
+      "republican": "Lisa McClain",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2610",
+      "label": "MI-10",
+      "democratic": "Christina Hines",
+      "republican": "Mike Bouchard",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for governor [ 42 ]"
+    },
+    {
+      "id": "2611",
+      "label": "MI-11",
+      "democratic": "Jeremy Moss",
+      "republican": "Ethan Baker",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 15 ]"
+    },
+    {
+      "id": "2612",
+      "label": "MI-12",
+      "democratic": "Rashida Tlaib",
+      "republican": "James Hooper",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2613",
+      "label": "MI-13",
+      "democratic": "Donavan McKinney",
+      "republican": "T.P. Nykoriak",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent lost renomination"
+    },
+    {
+      "id": "2701",
+      "label": "MN-01",
+      "democratic": null,
+      "republican": "Brad Finstad",
+      "democraticFieldSize": 0,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2702",
+      "label": "MN-02",
+      "democratic": null,
+      "republican": "Eric Pratt",
+      "democraticFieldSize": 0,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 16 ]"
+    },
+    {
+      "id": "2703",
+      "label": "MN-03",
+      "democratic": null,
+      "republican": "Tyler Bass",
+      "democraticFieldSize": 0,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2704",
+      "label": "MN-04",
+      "democratic": null,
+      "republican": "Paul Wikstrom",
+      "democraticFieldSize": 0,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2705",
+      "label": "MN-05",
+      "democratic": null,
+      "republican": "John Nagel",
+      "democraticFieldSize": 0,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2706",
+      "label": "MN-06",
+      "democratic": null,
+      "republican": "Tom Emmer",
+      "democraticFieldSize": 0,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2707",
+      "label": "MN-07",
+      "democratic": null,
+      "republican": "Michelle Fischbach",
+      "democraticFieldSize": 0,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2708",
+      "label": "MN-08",
+      "democratic": null,
+      "republican": "Pete Stauber",
+      "democraticFieldSize": 0,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2901",
+      "label": "MO-01",
+      "democratic": "Wesley Bell",
+      "republican": "Paul Berry",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2902",
+      "label": "MO-02",
+      "democratic": "Fred Wellman",
+      "republican": "Ann Wagner",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2903",
+      "label": "MO-03",
+      "democratic": "Bethany Mann",
+      "republican": "Bob Onder",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2904",
+      "label": "MO-04",
+      "democratic": "Jordan Herrera",
+      "republican": "Mark Alford",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2905",
+      "label": "MO-05",
+      "democratic": "Emanuel Cleaver",
+      "republican": "Rick Brattin",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2906",
+      "label": "MO-06",
+      "democratic": "Josh Smead",
+      "republican": "Chris Stigall",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 43 ]"
+    },
+    {
+      "id": "2907",
+      "label": "MO-07",
+      "democratic": "Missi Hesketh",
+      "republican": "Eric Burlison",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2908",
+      "label": "MO-08",
+      "democratic": "Chris Reichard",
+      "republican": "Jason Smith",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2801",
+      "label": "MS-01",
+      "democratic": "Cliff Johnson",
+      "republican": "Trent Kelly",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2802",
+      "label": "MS-02",
+      "democratic": "Bennie Thompson",
+      "republican": "Ron Eller",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2803",
+      "label": "MS-03",
+      "democratic": "Michael Chiaradio",
+      "republican": "Michael Guest",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "2804",
+      "label": "MS-04",
+      "democratic": "Jeffrey Hulum III",
+      "republican": "Mike Ezell",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3001",
+      "label": "MT-01",
+      "democratic": "Sam Forstag",
+      "republican": "Aaron Flint",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 44 ]"
+    },
+    {
+      "id": "3002",
+      "label": "MT-02",
+      "democratic": "Brian Miller",
+      "republican": "Troy Downing",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3701",
+      "label": "NC-01",
+      "democratic": "Don Davis",
+      "republican": "Laurie Buckhout",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3702",
+      "label": "NC-02",
+      "democratic": "Deborah Ross",
+      "republican": "Eugene Douglass",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3703",
+      "label": "NC-03",
+      "democratic": "Raymond Smith Jr.",
+      "republican": "Greg Murphy",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3704",
+      "label": "NC-04",
+      "democratic": "Valerie Foushee",
+      "republican": "Max Ganorkar",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3705",
+      "label": "NC-05",
+      "democratic": "Chuck Hubbard",
+      "republican": "Virginia Foxx",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3706",
+      "label": "NC-06",
+      "democratic": "Cyril Jefferson",
+      "republican": "Addison McDowell",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3707",
+      "label": "NC-07",
+      "democratic": "Kimberly Hardy",
+      "republican": "David Rouzer",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3708",
+      "label": "NC-08",
+      "democratic": "Colby Watson",
+      "republican": "Mark Harris",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3709",
+      "label": "NC-09",
+      "democratic": "Richard Ojeda",
+      "republican": "Richard Hudson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3710",
+      "label": "NC-10",
+      "democratic": "Ashley Bell",
+      "republican": "Pat Harrigan",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3711",
+      "label": "NC-11",
+      "democratic": "Jamie Ager",
+      "republican": "Jennifer Balkcom",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 48 ]"
+    },
+    {
+      "id": "3712",
+      "label": "NC-12",
+      "democratic": "Alma Adams",
+      "republican": "Jack Codiga",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3713",
+      "label": "NC-13",
+      "democratic": "Paul Barringer",
+      "republican": "Brad Knott",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3714",
+      "label": "NC-14",
+      "democratic": "Lakesha Womack",
+      "republican": "Tim Moore",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3800",
+      "label": "ND at-large",
+      "democratic": null,
+      "republican": "Julie Fedorchak",
+      "democraticFieldSize": 0,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3101",
+      "label": "NE-01",
+      "democratic": "Chris Backemeyer",
+      "republican": "Mike Flood",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3102",
+      "label": "NE-02",
+      "democratic": "Denise Powell",
+      "republican": "Brinker Harding",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 45 ]"
+    },
+    {
+      "id": "3103",
+      "label": "NE-03",
+      "democratic": "Becky Stille",
+      "republican": "Adrian Smith",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3301",
+      "label": "NH-01",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 8,
+      "republicanFieldSize": 6,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 17 ]"
+    },
+    {
+      "id": "3302",
+      "label": "NH-02",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 3,
+      "republicanFieldSize": 3,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "3401",
+      "label": "NJ-01",
+      "democratic": "Donald Norcross",
+      "republican": "Damon Galdo",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3402",
+      "label": "NJ-02",
+      "democratic": "Zack Mullock",
+      "republican": "Jeff Van Drew",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3403",
+      "label": "NJ-03",
+      "democratic": "Herb Conaway",
+      "republican": "Michael McGuire",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3404",
+      "label": "NJ-04",
+      "democratic": "Rachel Peace",
+      "republican": "Chris Smith",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3405",
+      "label": "NJ-05",
+      "democratic": "Josh Gottheimer",
+      "republican": "Sean Kirrane",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3406",
+      "label": "NJ-06",
+      "democratic": "Frank Pallone",
+      "republican": "Hillary Herzig",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3407",
+      "label": "NJ-07",
+      "democratic": "Rebecca Bennett",
+      "republican": "Thomas Kean Jr.",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3408",
+      "label": "NJ-08",
+      "democratic": "Rob Menendez",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3409",
+      "label": "NJ-09",
+      "democratic": "Nellie Pou",
+      "republican": "Rosie Pino",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3410",
+      "label": "NJ-10",
+      "democratic": "LaMonica McIver",
+      "republican": "Carmen Bucco",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3411",
+      "label": "NJ-11",
+      "democratic": "Y Analilia Mejia",
+      "republican": "Joe Hathaway",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent resigned November 20, 2025 to become governor of New Jersey . [ 160 ] New member elected April 16, 2026. Democratic hold."
+    },
+    {
+      "id": "3412",
+      "label": "NJ-12",
+      "democratic": "Adam Hamawy",
+      "republican": "Gregg Mele",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 18 ]"
+    },
+    {
+      "id": "3501",
+      "label": "NM-01",
+      "democratic": "Melanie Stansbury",
+      "republican": "Didi Okpareke",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3502",
+      "label": "NM-02",
+      "democratic": "Gabe Vasquez",
+      "republican": "Greg Cunningham",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3503",
+      "label": "NM-03",
+      "democratic": "Teresa Leger Fern\u00e1ndez",
+      "republican": "Martin Zamora",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3201",
+      "label": "NV-01",
+      "democratic": "Dina Titus",
+      "republican": "Carrie Buck",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3202",
+      "label": "NV-02",
+      "democratic": "Teresa Benitez-Thompson",
+      "republican": "David Flippo",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 46 ]"
+    },
+    {
+      "id": "3203",
+      "label": "NV-03",
+      "democratic": "Susie Lee",
+      "republican": "Martin O'Donnell",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3204",
+      "label": "NV-04",
+      "democratic": "Steven Horsford",
+      "republican": "Cody Whipple",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3601",
+      "label": "NY-01",
+      "democratic": "Chris Gallant",
+      "republican": "\u258c Nick LaLota",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3602",
+      "label": "NY-02",
+      "democratic": "\u258c Patrick Halpin",
+      "republican": "\u258c Andrew Garbarino",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3603",
+      "label": "NY-03",
+      "democratic": "Tom Suozzi",
+      "republican": "Mike LiPetri",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3604",
+      "label": "NY-04",
+      "democratic": "Laura Gillen",
+      "republican": "Jeanine Driscoll",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3605",
+      "label": "NY-05",
+      "democratic": "Gregory Meeks",
+      "republican": "George Marsh",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3606",
+      "label": "NY-06",
+      "democratic": "Grace Meng",
+      "republican": "Joseph Chou",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3607",
+      "label": "NY-07",
+      "democratic": "Claire Valdez",
+      "republican": "Melvin Rivera",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 19 ]"
+    },
+    {
+      "id": "3608",
+      "label": "NY-08",
+      "democratic": "Hakeem Jeffries",
+      "republican": "Lewis Mizrahi",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3609",
+      "label": "NY-09",
+      "democratic": "Yvette Clarke",
+      "republican": "Joel Anabilah-Azumah",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3610",
+      "label": "NY-10",
+      "democratic": "Brad Lander",
+      "republican": "Jennifer Moore",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent lost renomination"
+    },
+    {
+      "id": "3611",
+      "label": "NY-11",
+      "democratic": "Michael DeCillis",
+      "republican": "Nicole Malliotakis",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3612",
+      "label": "NY-12",
+      "democratic": "Micah Lasher",
+      "republican": "Caroline Shinkle",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 20 ]"
+    },
+    {
+      "id": "3613",
+      "label": "NY-13",
+      "democratic": "Darializa Avila Chevalier",
+      "republican": "Jomo Williams",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent lost renomination"
+    },
+    {
+      "id": "3614",
+      "label": "NY-14",
+      "democratic": "Alexandria Ocasio-Cortez",
+      "republican": "Diamant Hysenaj",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3615",
+      "label": "NY-15",
+      "democratic": "Ritchie Torres",
+      "republican": "Stylo Sapaskis",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3616",
+      "label": "NY-16",
+      "democratic": "George Latimer",
+      "republican": "Joseph Cinquemani",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3617",
+      "label": "NY-17",
+      "democratic": "Cait Conley",
+      "republican": "Mike Lawler",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3618",
+      "label": "NY-18",
+      "democratic": "\u258c Pat Ryan",
+      "republican": "\u258c Jacqueline Auringer",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3619",
+      "label": "NY-19",
+      "democratic": "\u258c Josh Riley",
+      "republican": "\u258c Peter Oberacker",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3620",
+      "label": "NY-20",
+      "democratic": "\u258c Paul Tonko",
+      "republican": "\u258c Ralph Ambrosio",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3621",
+      "label": "NY-21",
+      "democratic": "Blake Gendebien",
+      "republican": "Anthony Constantino",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 47 ]"
+    },
+    {
+      "id": "3622",
+      "label": "NY-22",
+      "democratic": "\u258c John Mannion",
+      "republican": "\u258c Kailee Buller",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3623",
+      "label": "NY-23",
+      "democratic": "\u258c Aaron Gies",
+      "republican": "\u258c Nick Langworthy",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3624",
+      "label": "NY-24",
+      "democratic": "\u258c Alissa Ellman",
+      "republican": "\u258c Claudia Tenney",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3625",
+      "label": "NY-25",
+      "democratic": "\u258c Joseph Morelle",
+      "republican": "\u258c Virginia McIntyre",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3626",
+      "label": "NY-26",
+      "democratic": "Tim Kennedy",
+      "republican": "\u258c Dennis Hannon",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3901",
+      "label": "OH-01",
+      "democratic": "Greg Landsman",
+      "republican": "Eric Conroy",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3902",
+      "label": "OH-02",
+      "democratic": "Jennifer Mazzuckelli",
+      "republican": "David Taylor",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3903",
+      "label": "OH-03",
+      "democratic": "Joyce Beatty",
+      "republican": "Cleophus Dulaney",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3904",
+      "label": "OH-04",
+      "democratic": "Joshua Kolasinski",
+      "republican": "Jim Jordan",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3905",
+      "label": "OH-05",
+      "democratic": "Brian Shaver",
+      "republican": "Bob Latta",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3906",
+      "label": "OH-06",
+      "democratic": "Elizabeth Kirtley",
+      "republican": "Michael Rulli",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3907",
+      "label": "OH-07",
+      "democratic": "Brian Poindexter",
+      "republican": "Max Miller",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3908",
+      "label": "OH-08",
+      "democratic": "Vanessa Enoch",
+      "republican": "Warren Davidson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3909",
+      "label": "OH-09",
+      "democratic": "Marcy Kaptur",
+      "republican": "Derek Merrin",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3910",
+      "label": "OH-10",
+      "democratic": "Kristina Knickerbocker",
+      "republican": "Mike Turner",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3911",
+      "label": "OH-11",
+      "democratic": "Shontel Brown",
+      "republican": "Mike Kirchner",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3912",
+      "label": "OH-12",
+      "democratic": "Jerrad Christian",
+      "republican": "Troy Balderson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3913",
+      "label": "OH-13",
+      "democratic": "Emilia Sykes",
+      "republican": "Carey Coleman",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3914",
+      "label": "OH-14",
+      "democratic": "Maria Jukic",
+      "republican": "David Joyce",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "3915",
+      "label": "OH-15",
+      "democratic": "Don Leonard",
+      "republican": "Mike Carey",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4001",
+      "label": "OK-01",
+      "democratic": "John Croisant",
+      "republican": "Mark Tedford",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 49 ]"
+    },
+    {
+      "id": "4002",
+      "label": "OK-02",
+      "democratic": "Brandon Wade",
+      "republican": "Josh Brecheen",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4003",
+      "label": "OK-03",
+      "democratic": "Suzie Byrd",
+      "republican": "Frank Lucas",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4004",
+      "label": "OK-04",
+      "democratic": "Mitchell Jacob",
+      "republican": "Tom Cole",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4005",
+      "label": "OK-05",
+      "democratic": "Jena Nelson",
+      "republican": "Stephanie Bice",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4101",
+      "label": "OR-01",
+      "democratic": "Suzanne Bonamici",
+      "republican": "Barbara Kahl",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4102",
+      "label": "OR-02",
+      "democratic": "Chris Beck",
+      "republican": "Cliff Bentz",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4103",
+      "label": "OR-03",
+      "democratic": "Maxine Dexter",
+      "republican": "Loran Ayles",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4104",
+      "label": "OR-04",
+      "democratic": "Val Hoyle",
+      "republican": "Monique DeSpain",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4105",
+      "label": "OR-05",
+      "democratic": "Janelle Bynum",
+      "republican": "Patti Adair",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4106",
+      "label": "OR-06",
+      "democratic": "Andrea Salinas",
+      "republican": "David Russ",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4201",
+      "label": "PA-01",
+      "democratic": "Bob Harvie",
+      "republican": "Brian Fitzpatrick",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4202",
+      "label": "PA-02",
+      "democratic": "Brendan Boyle",
+      "republican": "Jessica Arriaga",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4203",
+      "label": "PA-03",
+      "democratic": "Chris Rabb",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent retiring [ 21 ]"
+    },
+    {
+      "id": "4204",
+      "label": "PA-04",
+      "democratic": "Madeleine Dean",
+      "republican": "Aurora Stuski",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4205",
+      "label": "PA-05",
+      "democratic": "Mary Gay Scanlon",
+      "republican": "Nicholas Manganaro",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4206",
+      "label": "PA-06",
+      "democratic": "Chrissy Houlahan",
+      "republican": "Marty Young",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4207",
+      "label": "PA-07",
+      "democratic": "Bob Brooks",
+      "republican": "Ryan Mackenzie",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4208",
+      "label": "PA-08",
+      "democratic": "Paige Cognetti",
+      "republican": "Rob Bresnahan",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4209",
+      "label": "PA-09",
+      "democratic": "Rachel Wallace",
+      "republican": "Dan Meuser",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4210",
+      "label": "PA-10",
+      "democratic": "Janelle Stelson",
+      "republican": "Scott Perry",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4211",
+      "label": "PA-11",
+      "democratic": "Nancy Mannion",
+      "republican": "Lloyd Smucker",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4212",
+      "label": "PA-12",
+      "democratic": "Summer Lee",
+      "republican": "James Hayes",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4213",
+      "label": "PA-13",
+      "democratic": "Beth Farnham",
+      "republican": "John Joyce",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4214",
+      "label": "PA-14",
+      "democratic": "Alan Bradstock",
+      "republican": "Guy Reschenthaler",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4215",
+      "label": "PA-15",
+      "democratic": "Ray Bilger",
+      "republican": "Glenn Thompson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4216",
+      "label": "PA-16",
+      "democratic": "Justin Wagner",
+      "republican": "Mike Kelly",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4217",
+      "label": "PA-17",
+      "democratic": "Chris Deluzio",
+      "republican": "Tony Guy",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4401",
+      "label": "RI-01",
+      "democratic": "Gabe Amo",
+      "republican": "Kellie Keenan",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "4402",
+      "label": "RI-02",
+      "democratic": "Seth Magaziner",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 2,
+      "raceStatus": "Incumbent running"
+    },
+    {
+      "id": "4501",
+      "label": "SC-01",
+      "democratic": "Nancy Lacore",
+      "republican": "Jenny Costa Honeycutt",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for governor [ 50 ]"
+    },
+    {
+      "id": "4502",
+      "label": "SC-02",
+      "democratic": "Zyon Khalifa",
+      "republican": "Joe Wilson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4503",
+      "label": "SC-03",
+      "democratic": "Eunice Lehmacher",
+      "republican": "Sheri Biggs",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4504",
+      "label": "SC-04",
+      "democratic": "Courtney McClain",
+      "republican": "William Timmons",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4505",
+      "label": "SC-05",
+      "democratic": "Mallory Dittmer",
+      "republican": "Wes Climer",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for governor [ 51 ]"
+    },
+    {
+      "id": "4506",
+      "label": "SC-06",
+      "democratic": "Jim Clyburn",
+      "republican": "John Peterson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4507",
+      "label": "SC-07",
+      "democratic": "John Vincent",
+      "republican": "Russell Fry",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4600",
+      "label": "SD at-large",
+      "democratic": "Nikki Gronli",
+      "republican": "Marty Jackley",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for governor [ 53 ]"
+    },
+    {
+      "id": "4701",
+      "label": "TN-01",
+      "democratic": "Kristi Burke",
+      "republican": "Diana Harshbarger",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4702",
+      "label": "TN-02",
+      "democratic": "Michaela Barnett",
+      "republican": "Tim Burchett",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4703",
+      "label": "TN-03",
+      "democratic": "Anna Golladay",
+      "republican": "Chuck Fleischmann",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4704",
+      "label": "TN-04",
+      "democratic": "Victoria Broderick",
+      "republican": "Scott DesJarlais",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4705",
+      "label": "TN-05",
+      "democratic": "Chaz Molder",
+      "republican": "Charlie Hatcher",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent lost renomination"
+    },
+    {
+      "id": "4706",
+      "label": "TN-06",
+      "democratic": "Mike Croley",
+      "republican": "Johnny Garrett",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for governor [ 54 ]"
+    },
+    {
+      "id": "4707",
+      "label": "TN-07",
+      "democratic": "Darden Copeland",
+      "republican": "Matt Van Epps",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4708",
+      "label": "TN-08",
+      "democratic": "Heidi Kuhn",
+      "republican": "David Kustoff",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4709",
+      "label": "TN-09",
+      "democratic": "Justin Pearson",
+      "republican": "Brent Taylor",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 22 ]"
+    },
+    {
+      "id": "4801",
+      "label": "TX-01",
+      "democratic": "Yolanda Prince",
+      "republican": "Nathaniel Moran",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4802",
+      "label": "TX-02",
+      "democratic": "Shaun Finnie",
+      "republican": "Steve Toth",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent lost renomination [ 74 ]"
+    },
+    {
+      "id": "4803",
+      "label": "TX-03",
+      "democratic": "Evan Hunt",
+      "republican": "Keith Self",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4804",
+      "label": "TX-04",
+      "democratic": "Jason Pearce",
+      "republican": "Pat Fallon",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4805",
+      "label": "TX-05",
+      "democratic": "Chelsey Hockett",
+      "republican": "Lance Gooden",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4806",
+      "label": "TX-06",
+      "democratic": "Danny Minton",
+      "republican": "Jake Ellzey",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4807",
+      "label": "TX-07",
+      "democratic": "Lizzie Fletcher",
+      "republican": "Alexander Hale",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4808",
+      "label": "TX-08",
+      "democratic": "Laura Jones",
+      "republican": "Jessica Hart Steinmann",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 55 ]"
+    },
+    {
+      "id": "4809",
+      "label": "TX-09",
+      "democratic": "Leticia Gutierrez",
+      "republican": "Alex Mealer",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "New representative to be elected"
+    },
+    {
+      "id": "4810",
+      "label": "TX-10",
+      "democratic": "Caitlin Rourk",
+      "republican": "Chris Gober",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 56 ]"
+    },
+    {
+      "id": "4811",
+      "label": "TX-11",
+      "democratic": "Claire Reynolds",
+      "republican": "August Pfluger",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4812",
+      "label": "TX-12",
+      "democratic": "Angela Rodriguez Prilliman",
+      "republican": "Craig Goldman",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4813",
+      "label": "TX-13",
+      "democratic": "Mark Nair",
+      "republican": "Ronny Jackson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4814",
+      "label": "TX-14",
+      "democratic": "Thurman Bartie",
+      "republican": "Randy Weber",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4815",
+      "label": "TX-15",
+      "democratic": "Bobby Pulido",
+      "republican": "Monica De La Cruz",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4816",
+      "label": "TX-16",
+      "democratic": "Veronica Escobar",
+      "republican": "Adam Bauman",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4817",
+      "label": "TX-17",
+      "democratic": "Casey Shepard",
+      "republican": "Pete Sessions",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4818",
+      "label": "TX-18",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent died March 5, 2025. [ 156 ] New member elected January 31, 2026, after no candidate received a majority vote in the November 4, 2025, jungle primary. Democratic hold."
+    },
+    {
+      "id": "4819",
+      "label": "TX-19",
+      "democratic": "Kyle Rable",
+      "republican": "Tom Sell",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 57 ]"
+    },
+    {
+      "id": "4820",
+      "label": "TX-20",
+      "democratic": "Joaquin Castro",
+      "republican": "Edgardo Rafael Baez",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4821",
+      "label": "TX-21",
+      "democratic": "Kristin Hook",
+      "republican": "Mark Teixeira",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for Texas attorney general [ 58 ]"
+    },
+    {
+      "id": "4822",
+      "label": "TX-22",
+      "democratic": "Marquette Greene-Scott",
+      "republican": "Trever Nehls",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 59 ]"
+    },
+    {
+      "id": "4823",
+      "label": "TX-23",
+      "democratic": "Katy Padilla Stout",
+      "republican": "Brandon Herrera",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent to be determined in 2026"
+    },
+    {
+      "id": "4824",
+      "label": "TX-24",
+      "democratic": "Kevin Burge",
+      "republican": "Beth Van Duyne",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4825",
+      "label": "TX-25",
+      "democratic": "Dione Sims",
+      "republican": "Roger Williams",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4826",
+      "label": "TX-26",
+      "democratic": "Steven Shook",
+      "republican": "Brandon Gill",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4827",
+      "label": "TX-27",
+      "democratic": "Tanya Lloyd",
+      "republican": "Michael Cloud",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4828",
+      "label": "TX-28",
+      "democratic": "Henry Cuellar",
+      "republican": "Tano Tijerina",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4829",
+      "label": "TX-29",
+      "democratic": "Sylvia Garcia",
+      "republican": "Martha Fierro",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4830",
+      "label": "TX-30",
+      "democratic": "Frederick Haynes III",
+      "republican": "Everett Jackson",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "New representative to be elected"
+    },
+    {
+      "id": "4831",
+      "label": "TX-31",
+      "democratic": "Justin Early",
+      "republican": "John Carter",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4832",
+      "label": "TX-32",
+      "democratic": "Dan Barrios",
+      "republican": "Jace Yarbrough",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "New representative to be elected"
+    },
+    {
+      "id": "4833",
+      "label": "TX-33",
+      "democratic": "Colin Allred",
+      "republican": "Patrick Gillespie",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate . [ 23 ] Democratic loss."
+    },
+    {
+      "id": "4834",
+      "label": "TX-34",
+      "democratic": "Vicente Gonzalez",
+      "republican": "Eric Flores",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4835",
+      "label": "TX-35",
+      "democratic": "Johnny Garcia",
+      "republican": "Carlos De La Cruz",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "New representative to be elected"
+    },
+    {
+      "id": "4836",
+      "label": "TX-36",
+      "democratic": "Rhonda Hart",
+      "republican": "Brian Babin",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4837",
+      "label": "TX-37",
+      "democratic": "Greg Casar",
+      "republican": "Lauren Pe\u00f1a",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring. [ 25 ] Democratic loss."
+    },
+    {
+      "id": "4838",
+      "label": "TX-38",
+      "democratic": "Melissa McDonough",
+      "republican": "Jon Bonck",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 60 ]"
+    },
+    {
+      "id": "4901",
+      "label": "UT-01",
+      "democratic": "Ben McAdams",
+      "republican": "Riley Owen",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "New representative to be elected"
+    },
+    {
+      "id": "4902",
+      "label": "UT-02",
+      "democratic": "Peter Crosby",
+      "republican": "Blake Moore",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4903",
+      "label": "UT-03",
+      "democratic": "Kent Udell",
+      "republican": "Celeste Maloy",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "4904",
+      "label": "UT-04",
+      "democratic": "Jonny Larsen",
+      "republican": "Mike Kennedy",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring. [ 61 ] Republican loss."
+    },
+    {
+      "id": "5101",
+      "label": "VA-01",
+      "democratic": "Shannon Taylor",
+      "republican": "Rob Wittman",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5102",
+      "label": "VA-02",
+      "democratic": "Elaine Luria",
+      "republican": "Jen Kiggans",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5103",
+      "label": "VA-03",
+      "democratic": "Bobby Scott",
+      "republican": "Edwin Rivera",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5104",
+      "label": "VA-04",
+      "democratic": "Jennifer McClellan",
+      "republican": "Robert Murray",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5105",
+      "label": "VA-05",
+      "democratic": "Tom Perriello",
+      "republican": "John McGuire",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5106",
+      "label": "VA-06",
+      "democratic": "Beth Macy",
+      "republican": "Ben Cline",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5107",
+      "label": "VA-07",
+      "democratic": "Eugene Vindman",
+      "republican": "Doug Ollivant",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5108",
+      "label": "VA-08",
+      "democratic": "Don Beyer",
+      "republican": "Tony Sabio",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5109",
+      "label": "VA-09",
+      "democratic": "Joy Powers",
+      "republican": "Morgan Griffith",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5110",
+      "label": "VA-10",
+      "democratic": "Suhas Subramanyam",
+      "republican": "Dave Beckwith",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5111",
+      "label": "VA-11",
+      "democratic": "James Walkinshaw",
+      "republican": "Arthur Purves",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5000",
+      "label": "VT at-large",
+      "democratic": "Becca Balint",
+      "republican": "Gerald Malloy",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5301",
+      "label": "WA-01",
+      "democratic": "Suzan DelBene",
+      "republican": "Mary Silva",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "5302",
+      "label": "WA-02",
+      "democratic": "Rick Larsen",
+      "republican": "Edwin Feller",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "5303",
+      "label": "WA-03",
+      "democratic": "Marie Gluesenkamp Perez",
+      "republican": "John Braun",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "5304",
+      "label": "WA-04",
+      "democratic": "John Duresky",
+      "republican": "Amanda McKinney",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring [ 62 ]"
+    },
+    {
+      "id": "5305",
+      "label": "WA-05",
+      "democratic": "Carmela Conroy",
+      "republican": "Michael Baumgartner",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "5306",
+      "label": "WA-06",
+      "democratic": "Emily Randall",
+      "republican": "Teresa Fox",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "5307",
+      "label": "WA-07",
+      "democratic": "Pramila Jayapal",
+      "republican": "Nirav Sheth",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "5308",
+      "label": "WA-08",
+      "democratic": "Kim Schrier",
+      "republican": "Spencer Meline",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "5309",
+      "label": "WA-09",
+      "democratic": "Adam Smith",
+      "republican": "Doug Basler",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "5310",
+      "label": "WA-10",
+      "democratic": "Marilyn Strickland",
+      "republican": "Chris Chung",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent advanced to general"
+    },
+    {
+      "id": "5501",
+      "label": "WI-01",
+      "democratic": "Mitchell Berman",
+      "republican": "Bryan Steil",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5502",
+      "label": "WI-02",
+      "democratic": "Mark Pocan",
+      "republican": null,
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 0,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5503",
+      "label": "WI-03",
+      "democratic": "Rebecca Cooke",
+      "republican": "Derrick Van Orden",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5504",
+      "label": "WI-04",
+      "democratic": "Gwen Moore",
+      "republican": "Tim Rogers",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5505",
+      "label": "WI-05",
+      "democratic": "Andrew Beck",
+      "republican": "Scott Fitzgerald",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5506",
+      "label": "WI-06",
+      "democratic": "Brad Smith",
+      "republican": "Glenn Grothman",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5507",
+      "label": "WI-07",
+      "democratic": "Fred Clark",
+      "republican": "Michael Alfonso",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent retiring to run for governor [ 63 ]"
+    },
+    {
+      "id": "5508",
+      "label": "WI-08",
+      "democratic": "Rick Crosson",
+      "republican": "Tony Wied",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5401",
+      "label": "WV-01",
+      "democratic": "Vince George",
+      "republican": "Carol Miller",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5402",
+      "label": "WV-02",
+      "democratic": "Ace Parsi",
+      "republican": "Riley Moore",
+      "democraticFieldSize": 1,
+      "republicanFieldSize": 1,
+      "raceStatus": "Incumbent renominated"
+    },
+    {
+      "id": "5600",
+      "label": "WY at-large",
+      "democratic": null,
+      "republican": null,
+      "democraticFieldSize": 2,
+      "republicanFieldSize": 10,
+      "raceStatus": "Incumbent retiring to run for U.S. Senate [ 64 ]"
+    }
+  ]
+}

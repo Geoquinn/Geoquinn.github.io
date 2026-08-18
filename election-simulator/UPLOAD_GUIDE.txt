@@ -1,0 +1,56 @@
+RIPPL ELECTION SIMULATOR — GITHUB PAGES UPLOAD GUIDE
+
+RECOMMENDED METHOD
+
+Replace the entire existing election-simulator folder in your published
+GitHub Pages repository with the election-simulator folder contained in the
+ZIP. This avoids mixing the former 119th-Congress map with the new 120th-
+Congress model.
+
+The deployed folder should contain:
+
+election-simulator/
+  index.html
+  styles.css
+  simulator.js
+  d3.min.js
+  house-districts-120.geojson
+  model1-special-elections.json
+  house-nominees-2026.json
+  MODEL_1_METHODOLOGY.md
+  README.txt
+  UPLOAD_GUIDE.txt
+  scripts/build-house-nominees.py
+  house/index.html
+  senate/index.html
+  governors/index.html
+  national-model/index.html
+
+IMPORTANT CLEANUP
+
+Delete election-simulator/house-districts-119.geojson from the repository.
+The updated simulator does not use it. Keeping it is harmless to execution,
+but removing it prevents an older map from being confused with the current
+120th-Congress file.
+
+MINIMUM UPDATE TO AN EXISTING INSTALLATION
+
+If the rest of the RIPPL site is already present, replace or add these files:
+
+1. Replace index.html and house/index.html so the new cache-busted assets load
+2. Replace simulator.js
+3. Replace styles.css
+4. Add house-nominees-2026.json
+5. Replace MODEL_1_METHODOLOGY.md
+6. Replace README.txt
+7. Replace UPLOAD_GUIDE.txt
+8. Optionally add scripts/build-house-nominees.py for future nominee refreshes
+9. Keep model1-special-elections.json and house-districts-120.geojson in place
+10. Delete house-districts-119.geojson if it is still present
+
+No path changes are required. The main page remains:
+
+https://george-quinn.com/election-simulator/
+
+After committing the upload, hard-refresh the browser so it does not reuse the
+older JavaScript or district data from its cache.
