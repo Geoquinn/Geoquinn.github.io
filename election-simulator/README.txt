@@ -12,6 +12,10 @@ https://george-quinn.com/election-simulator/
      index.html
      styles.css
      script.js
+     national-model/index.html
+     house/index.html
+     senate/index.html
+     governors/index.html
      maps/
        Florida_2026_Governor_Interactive_County_Map.html
 
@@ -22,3 +26,6 @@ https://george-quinn.com/election-simulator/
 
 This page does not replace the main george-quinn.com academic homepage.
 It becomes a separate forecast homepage at /election-simulator/.
+
+The four national model pages are linked from the forecast desk. They are
+structural workspaces ready for the model data, weights, maps, and simulations.
