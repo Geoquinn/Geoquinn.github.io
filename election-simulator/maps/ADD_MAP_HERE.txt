@@ -1,0 +1,5 @@
+Place the self-contained Leaflet output in this folder with this exact filename:
+
+Florida_2026_Governor_Interactive_County_Map.html
+
+The “Open county map” button on the Election Simulator homepage already points to it.

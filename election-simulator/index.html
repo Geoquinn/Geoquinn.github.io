@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Transparent, interactive election forecasts and scenario models by George D. Quinn.">
+  <meta name="theme-color" content="#101b2b">
+  <title>Election Simulator | George D. Quinn</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+<main>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Election Simulator home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span><strong>Election</strong> Simulator</span></a>
+    <nav aria-label="Primary navigation"><a href="#forecast-lab">Forecasts</a><a href="#florida-model">Simulators</a><a href="#methodology">Methodology</a><a href="https://george-quinn.com/">George Quinn</a></nav>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="hero-grid" aria-hidden="true"></div>
+    <div class="hero-copy" id="main-content">
+      <p class="kicker"><span>2026 cycle</span> Model the election, not the headline</p>
+      <h1>Build a forecast.<br><em>Test what breaks.</em></h1>
+      <p class="hero-deck">An open election-analysis workspace for translating returns, turnout, demographic change, and redistricting into transparent scenarios.</p>
+      <div class="hero-actions"><a class="button button-primary" href="#florida-model">Run the Florida model <span>↘</span></a><a class="text-link" href="#methodology">Read the methodology <span>→</span></a></div>
+    </div>
+    <aside class="cycle-board" aria-label="Current cycle overview">
+      <div class="board-topline"><span>Model desk</span><span class="pulse">Updated scenario</span></div>
+      <div class="balance-label">Featured projection</div><div class="balance-number">FL–GOV</div>
+      <div class="balance-bar" id="hero-balance" aria-label="Jolly 50.5 percent, Donalds 48.4 percent"><span class="bar-dem" style="width:50.5%"></span><span class="bar-other" style="width:1.1%"></span><span class="bar-gop" style="width:48.4%"></span></div>
+      <div class="board-split"><div><small>Jolly</small><strong data-jolly-share>50.5%</strong></div><div class="right"><small>Donalds</small><strong data-donalds-share>48.4%</strong></div></div>
+      <div class="board-note">Central high-turnout stress test · not a polling forecast</div>
+    </aside>
+  </section>
+
+  <section class="ticker" aria-label="Model principles"><span>County returns</span><b>•</b><span>Turnout scenarios</span><b>•</b><span>Demographic shifts</span><b>•</b><span>Candidate effects</span><b>•</b><span>Map durability</span></section>
+
+  <section class="section model-section" id="florida-model">
+    <div class="section-heading"><div><p class="section-index">01 / Live simulator</p><h2>Florida governor<br>scenario lab</h2></div><p>Move the statewide swing and watch the topline change. The full model begins with all 67 counties and treats Trump–Harris 2024 as the Democratic low-water baseline.</p></div>
+    <div class="simulator-shell">
+      <div class="sim-controls">
+        <div class="control-header"><span>Scenario controls</span><button type="button" id="reset-model">Reset</button></div>
+        <label class="slider-label" for="swing-slider"><span>Democratic margin swing from 2024</span><output id="swing-output">15.2 pts</output></label>
+        <input id="swing-slider" type="range" min="4" max="20" step="0.1" value="15.2" style="--progress:70%">
+        <div class="range-labels"><span>R+9.1</span><span>2024 baseline: R+13.1</span><span>D+6.9</span></div>
+        <fieldset><legend>Midterm turnout</legend><div class="segmented-control"><button type="button" id="standard-turnout">Standard</button><button type="button" class="active" id="high-turnout">High</button></div></fieldset>
+        <div class="assumption-list"><div><span>Hispanic reversion</span><strong>Large</strong></div><div><span>Older college voters</span><strong>D shift</strong></div><div><span>Candidate crossover</span><strong>Enabled</strong></div></div>
+        <a class="button button-dark" href="maps/Florida_2026_Governor_Interactive_County_Map.html">Open county map <span>↗</span></a>
+      </div>
+      <div class="sim-output" aria-live="polite">
+        <div class="projection-topline"><span>Projected result</span><strong class="dem-text" id="projected-result">Jolly +2.1</strong></div>
+        <div class="candidate-row dem-row"><div><span class="party-chip">D</span><p><strong>David Jolly</strong><small>Democratic</small></p></div><div class="candidate-total"><strong data-jolly-share>50.5%</strong><small id="jolly-votes">5.30M votes</small></div></div>
+        <div class="candidate-row gop-row"><div><span class="party-chip">R</span><p><strong>Byron Donalds</strong><small>Republican</small></p></div><div class="candidate-total"><strong data-donalds-share>48.4%</strong><small id="donalds-votes">5.08M votes</small></div></div>
+        <div class="projection-meta"><div><small>Projected turnout</small><strong id="projected-turnout">10.49M</strong></div><div><small>Other candidates</small><strong>1.1%</strong></div><div><small>Modeled county wins</small><strong>12 D / 55 R</strong></div></div>
+      </div>
+      <div class="county-mosaic" aria-label="Abstract preview of Florida county results"><div class="mosaic-heading"><span>County field</span><span>Central scenario</span></div><div class="tile-grid"><span class="r3">ESC</span><span class="r4">OKA</span><span class="s1">JAX</span><span class="s2">STJ</span><span class="d3">TAL</span><span class="s2">VOL</span><span class="r3">SUM</span><span class="r2">BRE</span><span class="d2">TPA</span><span class="d2">PIN</span><span class="d3">ORL</span><span class="d1">OSC</span><span class="r1">SAR</span><span class="d2">PBC</span><span class="d3">BRW</span><span class="d1">MIA</span></div><div class="mosaic-legend"><span><i class="dem-dot"></i>Jolly</span><span><i class="gop-dot"></i>Donalds</span><span>Shade = margin</span></div></div>
+    </div>
+  </section>
+
+  <section class="section forecast-section" id="forecast-lab">
+    <div class="section-heading compact"><div><p class="section-index">02 / Forecast desk</p><h2>One home for<br>every model</h2></div><p>The homepage is designed to grow by cycle, office, and geography without burying the assumptions that produce each result.</p></div>
+    <div class="forecast-grid">
+      <a class="forecast-card" href="#florida-model"><div class="card-top"><span>Governor</span><span class="status live">Live model</span></div><h3>Florida 2026</h3><p>A county-level stress test of a high-turnout race between David Jolly and Byron Donalds.</p><div class="card-foot"><span>Explore model</span><b>↗</b></div></a>
+      <a class="forecast-card" href="#forecast-lab"><div class="card-top"><span>U.S. House</span><span class="status building">In development</span></div><h3>2026 House Forecast</h3><p>A district-by-district model built to test waves, candidate effects, and map durability.</p><div class="card-foot"><span>Explore model</span><b>↗</b></div></a>
+      <a class="forecast-card" href="#forecast-lab"><div class="card-top"><span>Redistricting</span><span class="status planned">Planned</span></div><h3>Dummymander Lab</h3><p>Explore when aggressive maps protect a majority—and when they expose too many seats at once.</p><div class="card-foot"><span>Explore model</span><b>↗</b></div></a>
+    </div>
+  </section>
+
+  <section class="section methodology" id="methodology">
+    <div class="method-intro"><p class="section-index">03 / Methodology</p><h2>Forecasts should be<br><em>auditable.</em></h2><p>Every published model should separate observed returns from researcher assumptions, reveal its sensitivity to turnout, and identify where aggregate data cannot support individual-level claims.</p></div>
+    <div class="method-steps"><article><span>01</span><div><h3>Start with returns</h3><p>Certified election results establish the county or district baseline.</p></div></article><article><span>02</span><div><h3>Model the electorate</h3><p>Turnout, demographic change, and candidate-specific effects are exposed as assumptions.</p></div></article><article><span>03</span><div><h3>Stress-test the map</h3><p>Scenarios show where a result is robust—and where it depends on unusually large shifts.</p></div></article></div>
+  </section>
+
+  <footer><div><a class="footer-brand" href="#top">Election Simulator</a><p>Transparent election scenarios by George D. Quinn.</p></div><div class="footer-links"><a href="https://george-quinn.com/">Academic site</a><a href="#methodology">Methods</a><a href="mailto:george.quinn@rutgers.edu">Contact</a></div><div class="footer-meta"><span>george-quinn.com</span><span>Built for the 2026 cycle</span></div></footer>
+</main>
+</body>
+</html>
