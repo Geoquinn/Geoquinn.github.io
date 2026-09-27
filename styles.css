@@ -957,55 +957,48 @@ a {
   text-decoration: underline;
 }
 
-/* Conference image and introduction */
-.presentations-feature-row {
-  display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr);
-  gap: clamp(2rem, 5vw, 5rem);
-  align-items: center;
-  margin-bottom: clamp(3.5rem, 6vw, 5.5rem);
-}
-
-.presentation-featured-image {
-  min-width: 0;
-  margin: 0;
-  overflow: hidden;
-  background: var(--gray);
-  box-shadow: var(--shadow);
-}
-
-.presentation-featured-image img {
-  display: block;
-  width: 100%;
-  height: clamp(20rem, 36vw, 32rem);
-  object-fit: cover;
-  object-position: center;
-}
-
-.presentation-feature-copy {
-  min-width: 0;
-  max-width: 31rem;
-}
-
-.presentation-feature-copy .eyebrow {
-  margin-bottom: 1rem;
-}
-
-.presentation-feature-copy h2 {
-  margin: 0;
-  font-family: var(--serif);
-  font-size: clamp(2.5rem, 4.5vw, 4.5rem);
-  font-weight: 600;
-  line-height: 1.08;
-  letter-spacing: -0.035em;
-}
-
-.presentation-intro-text {
-  margin: 1.5rem 0 0;
-  color: var(--muted);
-  font-size: 1.08rem;
-  line-height: 1.75;
-}
+/* Presentations page: sticky image beside the full conference record */
+  /* Page-specific layout: the photograph follows the list while scrolling. */
+  .presentations-layout {
+    display: grid;
+    grid-template-columns: minmax(13rem, 0.48fr) minmax(0, 1fr);
+    gap: clamp(2rem, 5vw, 5rem);
+    align-items: start;
+  }
+  .presentations-photo {
+    position: sticky;
+    top: 7rem;
+    align-self: start;
+    margin: 0;
+  }
+  .presentations-photo img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: min(72vh, 38rem);
+    object-fit: contain;
+    object-position: top center;
+    background: var(--gray);
+    box-shadow: 1rem 1rem 0 var(--gray);
+  }
+  .presentations-content { min-width: 0; }
+  .presentations-content .section-intro { margin-bottom: clamp(2rem, 4vw, 3.5rem); }
+  .presentations-content .presentation-year {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+  .presentations-content .presentation-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  @media (max-width: 980px) {
+    .presentations-layout { grid-template-columns: minmax(12rem, 0.4fr) minmax(0, 1fr); gap: 2rem; }
+    .presentations-content .presentation-list { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 700px) {
+    .presentations-layout { grid-template-columns: 1fr; gap: 2.75rem; }
+    .presentations-photo { position: static; width: min(100%, 24rem); }
+    .presentations-photo img { max-height: none; }
+  }
 
 .presentation-years {
   border-top: 1px solid var(--line);
@@ -1239,9 +1232,6 @@ a {
   .research-group-heading { grid-template-columns: 3.7rem minmax(0, 1fr); }
   .accordion-list { margin-left: 5.2rem; }
   .course { grid-template-columns: 1fr; gap: 1.2rem; }
-  .presentations-feature-row { grid-template-columns: 1fr; gap: 2rem; margin-bottom: 4rem; }
-  .presentation-feature-copy { max-width: 42rem; }
-  .presentation-featured-image img { height: auto; max-height: 34rem; }
   .presentation-year { grid-template-columns: 1fr; gap: 1.5rem; }
   .presentation-list { grid-template-columns: 1fr; }
   .presentations-cta { align-items: flex-start; flex-direction: column; }
@@ -1255,10 +1245,6 @@ a {
   .portrait-wrap { width: min(78vw, 20rem); }
   .hero-copy h1 { font-size: clamp(3rem, 16vw, 4.6rem); }
   .home-links, .content-section, .quick-contact { padding-block: 4rem; }
-  .presentations-feature-row { gap: 1.8rem; margin-bottom: 3rem; }
-  .presentation-feature-copy h2 { font-size: clamp(2.5rem, 12vw, 3.4rem); }
-  .presentation-intro-text { font-size: 1rem; }
-  .presentation-featured-image { box-shadow: none; }
   .page-banner { min-height: 18rem; }
   .page-banner h1 { font-size: clamp(3.4rem, 18vw, 5rem); }
   .section-intro h2, .content-section > .section-intro h2 { font-size: 2.4rem; }
